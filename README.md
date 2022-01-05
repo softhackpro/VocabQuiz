@@ -12,6 +12,6 @@ Second go to directory where you download<br>
 cd /home/username/Ip-Finder/
 
 Third run this tool<br>
-python3 ip.py
+python main.py
 
-![1](https://github.com/softhackpro/Ip-Finder/blob/main/vocabQuiz.png)
+![1](https://github.com/softhackpro/VocabQuiz/blob/main/vocabQuiz.png)
